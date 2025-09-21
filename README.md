@@ -24,6 +24,13 @@ An interactive **Streamlit web app** is developed for real-time prediction of tr
 
 ---
 
+## 📸 Streamlit Demo
+
+Here is a screenshot of the Streamlit app:
+
+![Streamlit App Screenshot](Screenshot.png)
+
+
 ## ⚙️ Project Workflow
 
 1. **Data Preprocessing**
